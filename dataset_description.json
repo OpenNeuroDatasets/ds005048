@@ -1,16 +1,21 @@
 {
-  "Authors": [
-    "Mojtaba Lahijan",
-    "Hamid Aghajan",
-    "Zahra Vahabi"
-  ],
-  "Name": "40Hz Auditory Entrainment",
-  "License": "CC0",
-  "ReferencesAndLinks": [""],
-  "BIDSVersion": "1.8.0",
-  "HEDVersion": "8.1.0",
-  "GeneratedBy":[ {
-    "Name": "bids-matlab-tools",
-    "Version": "8.0"
-  }]
+    "Authors": [
+        "Mojtaba Lahijan",
+        "Hamid Aghajan",
+        "Zahra Vahabi"
+    ],
+    "Name": "40Hz Auditory Entrainment",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "8.0"
+        }
+    ],
+    "Acknowledgements": "The authors wish to thank Ziaeian Hospital in Tehran for providing staff time and equipment for data collection in this study. We are grateful to the patients and their families who participated in this study."
 }
