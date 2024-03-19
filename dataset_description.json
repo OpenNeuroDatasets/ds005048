@@ -1,0 +1,16 @@
+{
+  "Authors": [
+    "Mojtaba Lahijan",
+    "Hamid Aghajan",
+    "Zahra Vahabi"
+  ],
+  "Name": "40Hz Auditory Entrainment",
+  "License": "CC0",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy":[ {
+    "Name": "bids-matlab-tools",
+    "Version": "8.0"
+  }]
+}
