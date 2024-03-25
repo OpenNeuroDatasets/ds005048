@@ -1,0 +1,18 @@
+{
+  "participant_id": {
+    "Description": "Unique participant label"
+  },
+  "Gender": {
+    "Description": "Participant gender"
+  },
+  "Age": {
+    "Description": "Participant age (years)",
+    "Units": "years"
+  },
+  "Group": {
+    "Description": "Participant group label"
+  },
+  "MMSE": {
+    "Description": "Participant score of mini-mental state examination test"
+  }
+}
