@@ -7,7 +7,9 @@
     "Name": "40Hz Auditory Entrainment",
     "License": "CC0",
     "ReferencesAndLinks": [
-        ""
+        "",
+        "https://doi.org/10.1038/s41598-024-63727-z",
+        "https://doi.org/10.1101/2021.09.30.462389"
     ],
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
