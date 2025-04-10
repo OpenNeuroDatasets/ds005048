@@ -25,6 +25,6 @@
     "EthicsApprovals": [
         "This study was approved by the Review Board of Tehran University of Medical Sciences (Approval ID: IR.TUMS.MEDICINE.REC.1398.524) and all participants provided informed consent before participating and were free to withdraw at any time."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005048.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005048.v1.0.1",
     "HowToAcknowledge": "Please cite the following article as well as dataset DOI:\nLahijanian, M., Aghajan, H. & Vahabi, Z. Auditory gamma-band entrainment enhances default mode network connectivity in dementia patients. Sci Rep 14, 13153 (2024). https://doi.org/10.1038/s41598-024-63727-z"
 }
